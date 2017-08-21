@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-size: 100px;
+}
+
+.main-body {
+  margin: 10px 100px 200px 200px;
+  background-color:  #99bbff;
+  border-radius: 25px;
+  padding: 50px 80px 80px 80px;
+}
+
+#title {
+  text-align: center;
+}
