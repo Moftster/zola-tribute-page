@@ -1,7 +1,8 @@
 $(document).ready(function() {
 
-// alert("JQuery is working");
+// alert("jQuery is working!");
+$("#target1").addClass("animated shake");
 
-$("h1").css("color: red");
+$("#target2").addClass("animated bounce")
 
 })
