@@ -1,6 +1,15 @@
+p {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 h1 {
-  color: blue;
-  font-size: 100px;
+  font-weight: bold !important;
+}
+
+h3 {
+  font-style: italic !important;
 }
 
 .main-body {
@@ -8,8 +17,19 @@ h1 {
   background-color:  #99bbff;
   border-radius: 25px;
   padding: 50px 80px 80px 80px;
+  font-family: 'Slabo 27px', serif;
+
 }
 
 #title {
   text-align: center;
+  font-size: 100px;
+}
+
+img {
+  max-width: 1000px;
+  margin: auto;
+  display: block;
+   width: 70%;
+
 }
